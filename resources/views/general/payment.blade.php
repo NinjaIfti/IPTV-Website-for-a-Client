@@ -3,7 +3,7 @@
 @section('content')
 
     <!-- PayPal SDK -->
-    <script src="https://www.paypal.com/sdk/js?client-id=AanrjRuJo8YEgNAVTmHteO9kxWweyLZVf531FkfMuXYaRPsjCiAzUR7kqjh1VsTVdkW5znQgMwurnMsl&currency=USD"></script>
+    <script src="https://www.paypal.com/sdk/js?client-id=></script>
 
     <!-- Load External Scripts -->
     <script src="{{ asset('js/app.js') }}"></script>
